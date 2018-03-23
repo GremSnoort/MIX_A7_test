@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MIX_A7_test</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+</resources>
